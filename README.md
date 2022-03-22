@@ -1,1 +1,1 @@
-[Veja o projeto](https://leonardodaines.github.io/Churrascometro/)
+[Click aqui para ver o projeto](https://leonardodaines.github.io/Churrascometro/)
